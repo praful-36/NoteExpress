@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NoteExpress/static/css/main.3a1576e3.css",
+    "main.js": "/NoteExpress/static/js/main.a4fe2485.js",
+    "index.html": "/NoteExpress/index.html",
+    "main.3a1576e3.css.map": "/NoteExpress/static/css/main.3a1576e3.css.map",
+    "main.a4fe2485.js.map": "/NoteExpress/static/js/main.a4fe2485.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a1576e3.css",
+    "static/js/main.a4fe2485.js"
+  ]
+}
